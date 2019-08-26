@@ -1,0 +1,37 @@
+#intro {
+  font-family: 'Exo', sans-serif; 
+}
+#toAbout {
+  font-family: 'Exo', sans-serif;
+}
+
+#technoLog {
+  font-family: 'Exo', sans-serif;
+}
+
+#ourTeam {
+  font-family: 'Carter One', cursive;
+}
+
+#teamContainer1, #teamContainer2, #teamContainer3, #teamContainer4 {
+  font-family: 'Carter One', cursive;
+  color : white
+}
+
+#aboutCh {
+  font-family: 'Carter One', cursive;
+  color : white
+}
+
+#whatIs {
+  font-family: 'Exo', sans-serif;
+  color : white
+}
+
+#navigator {
+  font-family: 'Exo', sans-serif;
+}
+
+#description {
+  font-family: 'Exo', sans-serif;
+}
